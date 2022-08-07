@@ -30,7 +30,7 @@ https://gearing.ffsusu.com/?5uEmyXoDyLNkpJnV6mKzzWCePMjGieSA7FFih8rFNDVfQea
 第14位是咏唱
 
 计算结果如图
-![计算结果](https://github.com/GoodJob567/ffxiv-best-gearing/res.PNG)
+![计算结果](https://github.com/GoodJob567/ffxiv-best-gearing/blob/main/res.PNG)
 
 如需计算单次伤害（不带入GCD）
 将calc函数的avg_damange部分改为damage即可
