@@ -15,24 +15,38 @@ https://gearing.ffsusu.com/?5uEmyXoDyLNkpJnV6mKzzWCePMjGieSA7FFih8rFNDVfQea
 虽然输入输出写的和屎一样，但数值没什么问题
 
 结果前十位是装备和食物序号
+
 0为改良型斯卡艾瓦装备
+
 1为欧米茄装备
+
 2为幻象装备
+
 食物
+
 0为贤人汉堡
+
 1为南瓜浓汤
+
 2为无花果饼干
+
 3为萨维奈奶茶
+
 后四位是魔晶石数量
+
 第11位是暴击
+
 第12位是信念
+
 第13位是直击
+
 第14位是咏唱
 
 计算结果如图
 ![计算结果](https://github.com/GoodJob567/ffxiv-best-gearing/blob/main/res.PNG)
 
-如需计算单次伤害（不带入GCD）
+如需每威力伤害期望最大值（不计算GCD）
+
 将calc函数的avg_damange部分改为damage即可
 
 其他职业需要大改，暂时没时间搞，毕竟光这一个程序我就跑了11个半小时。。。
