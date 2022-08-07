@@ -49,4 +49,6 @@ https://gearing.ffsusu.com/?5uEmyXoDyLNkpJnV6mKzzWCePMjGieSA7FFih8rFNDVfQea
 
 将calc函数的avg_damange部分改为damage即可
 
+此处基础数值为白龙的数值，其他种族将baseState改为该职业无装备下的数值即可
+
 其他职业需要大改，暂时没时间搞，毕竟光这一个程序我就跑了11个半小时。。。
